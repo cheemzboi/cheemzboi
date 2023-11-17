@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about discord py**
 
-- 👨‍💻 All of my projects are available at [in progress (https://skb.poxi.io)](in progress (https://skb.poxi.io))
+- 👨‍💻 All of my projects are available at [github.com/cheemzboi]
 
 - 💬 Ask me about **python , tg / discord bot developement**
 
